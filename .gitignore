@@ -1,0 +1,9 @@
+node_modules
+dist
+packages
+.webpack
+out
+roadmap-win32-arm64
+roadmap-win32-x64
+roadmap-win32-x64 - cópia
+electron-react-typescript-darwin-arm64
